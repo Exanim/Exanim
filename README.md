@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Exanim
 - 👀 I’m interested in anything
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on tmodloader 1.4
+- 🌱 I’m currently learning Java, c++
 - 📫 How to reach me not yet
 
 <!---
